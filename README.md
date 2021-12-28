@@ -6,11 +6,7 @@ Absorbs differences in resolution and device pixel ratio.
 
 # DEMO
 
-![]()
-
-# Features
-
-* sales point
+![DEMO](https://ytyaru.github.io/Html.CSS.Responsive.20211228113745/)
 
 # Requirement
 
